@@ -1,6 +1,6 @@
 # Rainmeter Fluent Monitor
 
-[![LUA](https://img.shields.io/static/v1?label=Rainmeter&message=INI&color=green&logo=rainmeter&logoColor=white&style=flat-square)](https://www.rainmeter.net/) &nbsp;
+[![LUA](https://img.shields.io/static/v1?label=Rainmeter&message=INI&color=green&logo=rainmeter&logoColor=white&style=flat-square)](https://www.rainmeter.net/)
 
 A fluent monitor skin for rainmeter.
 
